@@ -3,6 +3,7 @@ class MathRequest:
     def __init__ (self, ope1, operator, ope2):
         raise NotImplementedError
 
+
     def get_ope1(self):
         raise NotImplementedError
 
